@@ -1,0 +1,95 @@
+
+    #main {
+        background-image: url(../Images/IMAGE/office/bg_term.png);
+        background-attachment: fixed;
+        background-size: 100% 100%;
+        background-position: center center;
+        min-height: 718px;
+        }
+        #body-content{
+            width: 75%;
+            margin: 0 auto 50px auto;
+            padding-top: 135px;
+        }
+        #body-content .page-title{
+            color: #f91105;
+            font-size: 60px;
+            font-weight: bold;
+        }
+         .list-page {
+            color: rgb(7, 7, 212);
+            font-size: 20px;
+            font-weight: bold;
+            margin-top: 5px;
+        }
+        .list-page-content{
+            display: flex;
+            margin-top: 20px;
+        }
+        .list-page-left ul li
+        {
+            background-color: #f1dfd3;
+            width: 300px;
+            text-decoration: none;
+            list-style: none;
+            
+            
+            
+        }
+        .list-page-left ul a
+        { 
+            display: block;
+            line-height: 30px;
+            border-bottom: 1px solid#bf2119;
+            padding: 10px 15px 5px;
+            color: rgb(123, 15, 15);
+            font-size: 12px;
+            font-weight: bold;
+      
+        }
+        .list-page-left ul a.carting
+        {
+            border-bottom: none;
+        }
+        .list-page-right ul a.carting
+        {
+            border-bottom: none;
+        }
+        .list-page-right
+        { 
+            margin-left: 10px ;
+        }
+
+        .list-page-right ul li
+        {
+            background-color: #ddd8d4;
+            width: 300px;
+            text-decoration: none;
+            list-style: none;
+            
+            
+        }
+        .list-page-right ul a
+        { 
+            display: block;
+            line-height: 30px;
+            border-bottom: 1px solid#de2319;
+            padding: 10px 15px 5px;
+            color: rgb(111, 20, 20);
+            font-size: 12px;
+            font-weight: bold;
+      
+        }
+        .list-page-content ul a:hover
+        {
+            color: rgb(247, 168, 21);
+        }
+
+
+
+        
+    
+
+        
+    
+        
